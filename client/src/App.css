@@ -1,0 +1,36 @@
+.cards
+{
+	margin-top: 20px;
+}
+.auth
+{
+	padding:20px;
+	text-align: center;
+	max-width: 400px;
+	margin:0px auto;
+}
+.ge
+{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:space-around;
+
+}
+.item
+{
+	width:30%;
+}
+.home
+{
+
+}
+.home-card
+{
+	max-width:500px;
+	height:max-content;
+	margin:0 auto;
+}
+.left
+{
+	flaot:left;
+}
